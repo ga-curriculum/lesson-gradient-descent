@@ -10,7 +10,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Gradient Descent Slides | [Link](./6.05-gradient-descent.pdf)|
-| Lab | Gradient Descent Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/6.05-gradient-descent-lab) |
+| Lab | Gradient Descent Lab | [Link](https://git.generalassemb.ly/DSI-US-4/6.02-lab-gradient_descent) |
 
 > **Dataset description:** Simulated Salary Data
 
@@ -39,19 +39,21 @@
 
 > **Total Time: 90 mins**
 
-I. **Gradient Descent** (90 minutes total)
+I. **Gradient Descent** (60 minutes total)
 - Loss Functions
 - Algorithm
 - Application to Logistic Regression
 - Common Pitfalls of Gradient Descent
 - Methods for Avoiding Pitfalls of Gradient Descent
 
+II. **Code-Along** (30 minutes total)
+- Gradient Descent Code-Along
 ---
 
 ## OPTIONAL: Resources for Practice and Learning
 
 *For supplemental reading material on this topic, check out the following resources:*
-- [DSI-4 Graduate Nicole Eickhoff's Medium Post](https://towardsdatascience.com/gradient-descent-is-a-first-order-iterative-optimization-algorithm-wikipedia-4d2174528bfa)
+- [DSI-DC-4 Graduate Nicole Eickhoff's Medium Post](https://towardsdatascience.com/gradient-descent-is-a-first-order-iterative-optimization-algorithm-wikipedia-4d2174528bfa)
 - [An Introduction to Gradient Descent and Linear Regression](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
 - [Wikipedia Article on Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
 - [KDNuggets Article on Gradient Descent with Excel Implementation](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
