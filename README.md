@@ -1,6 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 6.05 - Gradient Descent
-
-> Week 6, Lesson 5
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Gradient Descent
 
 ---
 
@@ -9,10 +7,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Gradient Descent Slides | [Link](./6.05-gradient-descent.pdf)|
-| Lab | Gradient Descent Lab | [Link](https://git.generalassemb.ly/DSI-US-4/6.02-lab-gradient_descent) |
+| Lesson | Gradient Descent Slides | [Link](./gradient-descent.pdf)|
 
-> **Dataset description:** Simulated Salary Data
+> **Dataset description:** Simulated Data
 
 ---
 
@@ -39,14 +36,12 @@
 
 > **Total Time: 90 mins**
 
-I. **Gradient Descent** (60 minutes total)
+I. **Gradient Descent** (45 minutes total)
 - Loss Functions
 - Algorithm
-- Application to Logistic Regression
-- Common Pitfalls of Gradient Descent
-- Methods for Avoiding Pitfalls of Gradient Descent
+- Common Pitfalls of Gradient Descens
 
-II. **Code-Along** (30 minutes total)
+II. **Code-Along** (45 minutes total)
 - Gradient Descent Code-Along
 ---
 
