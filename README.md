@@ -54,4 +54,3 @@ II. **Code-Along** (45 minutes total)
 - [KDNuggets Article on Gradient Descent with Excel Implementation](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
 - [Stanford OpenClassroom Implementation of Gradient Descent](http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex3/ex3.html)
 ---
-
