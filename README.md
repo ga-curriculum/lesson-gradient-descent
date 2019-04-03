@@ -39,7 +39,7 @@
 I. **Gradient Descent** (45 minutes total)
 - Loss Functions
 - Algorithm
-- Common Pitfalls of Gradient Descens
+- Common Pitfalls of Gradient Descent
 
 II. **Code-Along** (45 minutes total)
 - Gradient Descent Code-Along
