@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Gradient Descent Slides | [Link](./gradient-descent.pdf)|
+| Lesson | Gradient Descent Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** Simulated Data
 
@@ -27,8 +27,9 @@
 
 *Before this lesson(s), students should already be able to:*
 
+1. Have a cursory understanding of the concept of derivatives
 1. Construct linear and logistic regression models.
-2. Describe and identify loss functions.
+1. Describe and identify loss functions.
 
 ---
 
